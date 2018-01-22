@@ -1,9 +1,6 @@
 # AndroidEmulatorTimeSyncWithWindows
 Windows powershell script for sync android emulator time with local windows time
 
-# AndroidEmulatorTimeSyncWithWindows
-Windows powershell script for sync android emulator time with local windows time
-
 # Instructions
 1. Run Powershell as Admininistrator
 2. Run Android emulator
