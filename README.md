@@ -13,4 +13,3 @@ Windows powershell script for sync android emulator time with local windows time
 3. Set current time
 4. Run external console app for load current timezone in Iana format
 5. Set emulator timezone
-6. Emulator reboot

@@ -16,5 +16,5 @@ $scriptOutput = & "./IanaTimeZoner/IanaTimeZoner.exe"
 # Set emulator timezone
 adb shell setprop persist.sys.timezone $scriptOutput
 
-# Emulator reboot
-adb shell reboot
+# Emulator reboot (not necessary and sometine emulator is chrashing)
+# adb shell reboot
